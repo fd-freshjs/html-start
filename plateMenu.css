@@ -26,15 +26,32 @@ body {
   color: white;
   text-align: center;
   vertical-align: middle;
+  /* padding-top: 150px; */
 }
 
 .plate-1 {
   vertical-align: top;
 }
 
+#plate-1 {
+  line-height: 300px;
+}
+
+#plate-2 {
+  line-height: 150px;
+}
+
+#plate-3 {
+  line-height: 150px;
+}
+
+#plate-4 {
+  line-height: 75px;
+}
+
 .plate-row {
   height: 100%;
-  width: 49%;
+  width: 50%;
 }
 
 .halfheight {
