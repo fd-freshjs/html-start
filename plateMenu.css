@@ -15,6 +15,7 @@ body {
   border: 5px solid grey;
   /* max-height: 300px; */
   height: 300px;
+  font-size: 0;
 }
 
 .inl-bk {
@@ -27,6 +28,7 @@ body {
   text-align: center;
   vertical-align: middle;
   /* padding-top: 150px; */
+  font-size: 30px;
 }
 
 .plate-1 {
